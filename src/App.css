@@ -74,6 +74,27 @@ button {
 .dark-mode .hero-section {
   background: linear-gradient(120deg, #44291d, #29211d);
 }
+/* HERO SECTION - DARK MODE */
+.dark-mode .hero-tag {
+  background: #553524;
+  color: #ffc09b;
+}
+
+.dark-mode .hero-content h1 {
+  color: #ffffff;
+}
+
+.dark-mode .hero-content h1 span {
+  color: #ffb088;
+}
+
+.dark-mode .hero-content p {
+  color: #e0d8d2;
+}
+
+.dark-mode .hero-decoration {
+  filter: brightness(1.1);
+}
 
 .dark-mode .recipe-card,
 .dark-mode .ingredients,
