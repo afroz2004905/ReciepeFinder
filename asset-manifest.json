@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReciepeFinder/static/css/main.b3c7f0b5.css",
+    "main.css": "/ReciepeFinder/static/css/main.8d55f333.css",
     "main.js": "/ReciepeFinder/static/js/main.09c479f0.js",
     "static/js/453.4a0fce98.chunk.js": "/ReciepeFinder/static/js/453.4a0fce98.chunk.js",
     "index.html": "/ReciepeFinder/index.html",
-    "main.b3c7f0b5.css.map": "/ReciepeFinder/static/css/main.b3c7f0b5.css.map",
+    "main.8d55f333.css.map": "/ReciepeFinder/static/css/main.8d55f333.css.map",
     "main.09c479f0.js.map": "/ReciepeFinder/static/js/main.09c479f0.js.map",
     "453.4a0fce98.chunk.js.map": "/ReciepeFinder/static/js/453.4a0fce98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3c7f0b5.css",
+    "static/css/main.8d55f333.css",
     "static/js/main.09c479f0.js"
   ]
 }
